@@ -1,7 +1,7 @@
 # ProjetoArquiteturaSoftware
-# Ativida8POO
-# OrientadaObjetos3
-Atividade 3
+
+10. Modelagem de uma solução
+
 ### Classes:
 
 - Cliente
